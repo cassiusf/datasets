@@ -1,21 +1,37 @@
-1 - Augusto
-2 - Bernardo 
-3 - Caio
-4 - Fernanda
-5 - Gabriel 
-6 - Gustavo
-7 - João 
-8 - Lúcia 
-9 - Leticia
-10 - Lucas 
-11 - Maria 
-12 - Marcos 
-13 - Mateus
-14 - Nelson
-15 - Nicolas
-16 - Otávio
-17 - Pedro
-18 - Rafael
-19 - Raquel
-20 - Rodrigo
-21 - Vitor
+1 - André Soares
+2 - Bernardo Cytryn
+3 - Brennda Landim
+4 - Bruno Crespo
+5 - Carlos Eduardo Gonçalves
+6 - Daniel Lages
+7 - Eduardo Araujo
+8 - Enzo Henrique Freitas
+9 - Felix Oliveira
+10 - Gabriel Azevedo
+11 - Gabriel Viana
+12 - Guilherme Miranda
+13 - Guilherme Barbosa
+14 - Guilherme Wanderley
+15 - Guilherme Pirozi
+16 - Henrique Amaral
+17 - Isabella Mayer
+18 - João Gabriel Raja
+19 - João Pedro Oliveira
+20 - João Pedro Sousa
+21 - Juan Pablo Santos
+22 - Juliana Costa
+23 - Lucas Souza
+24 - Marcos Isaac
+25 - Matheus Motta
+26 - Natan Robers
+27 - Nathan Vieira
+28 - Olavo Araújo
+29 - Rafael Rodriguez
+30 - Rainer Sacks
+31 - Raphael Ribeiro
+32 - Richard de Jesus
+33 - Rodolpho da Fonseca
+34 - Rodrigo Menezes
+35 - Samuel Freitas
+36 - Sofia Malaquias
+37 - Victor Hugo Moraes
